@@ -1,7 +1,7 @@
 {
   "name": "@ultraswap/interface",
   "description": "UltraSwap Interface",
-  "homepage": "https://boern.github.io/ultraswap",
+  "homepage": "https://swap.artmoo.com",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
